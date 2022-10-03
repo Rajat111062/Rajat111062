@@ -10,7 +10,7 @@
         <li>🤔 Areas of Interest: Google Analytics, Predictive Analytics, Data Reporting, Python (Programming Language), MySQL, Machine Learning, Data Visualization, Linux, Relational Databases, Statistical Data Analysis
 </li>
         <li>💬 Ask me about anything</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rajat-sahu-484329b1/details/skills/">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rajat-sahu-484329b1">LinkedIn</a>.</li>
       </ul>
 </i>
 <br/>
