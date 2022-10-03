@@ -1,8 +1,8 @@
-## Hi there, I am Rajat Sahu!<img height="60" width="60" src="./assets/hi.gif" />
+## Hi there, I am Rajat Sahu!<img height="60" width="60" src="hi.gif" />
 <i>I am a Data Analyst</b>.</i>
 <i>
   
-<img align="right" height="250" width="350" src="./assets/typing_man.gif" />
+<img align="right" height="250" width="350" src="typing_man.gif" />
 <br>
 <ul>
         <li>🔭 DataScience, DescriptiveAnalysis, DiagnosticAnalytics, PredictiveModelling, DataCleansing,ProductAnalysis.. </li>
