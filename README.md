@@ -15,19 +15,12 @@
 </i>
 <br/>
 
-<div align="center">
-
-## Github Stats
-<a href="https://github.com/Rajat111062">
-  <img align="center" alt="Rajat Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajat111062& show_icons=true&theme=tokyonight">
-</a>
-</div>
 
 <div align="center">
 
 ## Top Languages
 <a href="https://github.com/Rajat111062">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat111062&theme=tokyonight&layout=compact">
 </a>
  </div>
 
