@@ -7,7 +7,7 @@
 <ul>
         <li>🔭 DataScience, DescriptiveAnalysis, DiagnosticAnalytics, PredictiveModelling, DataCleansing,ProductAnalysis.. </li>
         <li>💼 Currently Working as Operation Engineer at Witzeal Technologies Private Limited</li>
-        <li>🤔 Areas of Interest: Google Analytics, Predictive Analytics, Data Reporting, Python (Programming Language), MySQL, Machine Learning, Data Visualization, Linux, Relational Databases, Statistical Data Analysis,
+        <li>🤔 Areas of Interest: Google Analytics, Predictive Analytics, Data Reporting, Python (Programming Language), MySQL, Machine Learning, Data Visualization, Linux, Relational Databases, Statistical Data Analysis
 </li>
         <li>💬 Ask me about anything</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rajat-sahu-484329b1/details/skills/">LinkedIn</a>.</li>
@@ -19,7 +19,7 @@
 
 ## Github Stats
 <a href="https://github.com/Rajat111062">
-  <img align="center" alt="Rohit Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajat111062& show_icons=true&theme=tokyonight">
+  <img align="center" alt="Rajat Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajat111062& show_icons=true&theme=tokyonight">
 </a>
 </div>
 
