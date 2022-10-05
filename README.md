@@ -6,8 +6,8 @@
 <br>
 <ul>
         <li>🔭 DataScience, DescriptiveAnalysis, DiagnosticAnalytics, PredictiveModelling, DataCleansing,ProductAnalysis.. </li>
-        <li>💼 Currently Working as Operation Engineer at Witzeal Technologies Private Limited</li>
-        <li>🤔 Areas of Interest: Google Analytics, Predictive Analytics, Data Reporting, Python (Programming Language), MySQL, Machine Learning, Data Visualization, Linux, Relational Databases, Statistical Data Analysis
+        <li>💼 Currently Working as Data Analyst in Data Science Team at Witzeal Technologies Private Limited</li>
+        <li>🤔 Areas of Interest: Google Analytics, Predictive Analytics, Data Reporting and interpretation, Python (Programming Language), Machine Learning, Data Visualization, Linux, Bash Shell Scripting, Relational Databases- MySql-Sql-Oracle, Statistical Data Analysis, Case Study writing and solution.
 </li>
         <li>💬 Ask me about anything</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rajat-sahu-484329b1">LinkedIn</a>.</li>
